@@ -1,0 +1,24 @@
+.emaillist{
+    flex: 1;
+    overflow: scroll;
+}
+
+.emaillist-settings{
+    top: 0;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid whitesmoke;
+    background-color: w;
+    z-index: 999;
+    padding-right: 15px;
+}
+
+.emaillist-section{
+    position: sticky;
+    top: 0;
+    display: flex;
+    border-bottom: 1px solid whitesmoke;
+    background-color: white;
+    z-index: 999;
+}
